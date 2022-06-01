@@ -1,0 +1,28 @@
+.header{
+   width: 100%;
+   height: 4rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: #2196F3;
+   padding: 0 5vw;
+}
+
+.pages {
+   display: flex;
+   align-items: center;
+}
+
+
+
+.pages a {
+   padding: 1.5rem;
+   margin: 0 1rem;
+   color: rgba(255, 255, 255, 0.7)
+}
+
+.pages a:hover {
+   background-color: rgba(0, 0, 0,0.25);
+   cursor: pointer;
+   color: white;
+}
