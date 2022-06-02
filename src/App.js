@@ -7,8 +7,8 @@ function App() {
   return (
     <Layout>
       <Routes>
-        <Route path="/" element={<Main />} />
-        <Route path="/favorites" element={<Favorites />} />
+        <Route path="/frontend-trainee" element={<Main />} />
+        <Route path="/frontend-trainee/favorites" element={<Favorites />} />
       </Routes>
     </Layout>
   );

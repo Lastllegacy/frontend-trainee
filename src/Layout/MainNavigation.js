@@ -7,8 +7,8 @@ function MainNavigation() {
     <div> 
       <header className={classes.header}>
         <nav className={classes.pages}>
-            <Link to="/"> Все котики </Link>
-            <Link to="/favorites"> Любимые котики </Link>
+            <Link to="/frontend-trainee"> Все котики </Link>
+            <Link to="/frontend-trainee/favorites"> Любимые котики </Link>
         </nav>
       </header>
     </div>
