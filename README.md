@@ -1,1 +1,1 @@
-# This project is "cat-pinterest" . It's about liking cats from an external api and allowing to like them and list to "favorites" page
+# This project is called "cat-pinterest" . It's about loading cats from an external api and allowing to list them in "favorites" page by clicking like button
